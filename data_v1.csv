@@ -1,0 +1,495 @@
+region,event_month,supply_source,demande_source,plateforme_AE,device_type,revenue
+,2025-07-01,Onsite,Adx,DM Network,Web+App,163.61180880206012
+,2025-04-01,Offsite,Adx,DM Network,Web+App,0.52587258347611665
+,2025-01-01,Offsite,Adx,DM Network,Web+App,0.39620510598548619
+,2025-06-01,Offsite,Adx,DM Network,Web+App,47.631844996165796
+,2025-05-01,Offsite,Adx,DM Network,Web+App,8.490561465009181
+,2025-01-01,Onsite,Adx,DM Network,Web+App,29.020208444283089
+,2025-07-01,Offsite,Adx,DM Network,Web+App,26.1580988238759
+,2025-02-01,Onsite,Adx,DM Network,Web+App,39.336132718943382
+,2025-02-01,Offsite,Adx,DM Network,Web+App,0.37584621822251618
+,2025-03-01,Onsite,Adx,DM Network,Web+App,33.530722640242978
+,2025-06-01,Onsite,Adx,DM Network,Web+App,113.23312128932861
+,2025-04-01,Onsite,Adx,DM Network,Web+App,79.697543212750475
+,2025-05-01,Onsite,Adx,DM Network,Web+App,64.46331139609569
+,2025-03-01,Offsite,Adx,DM Network,Web+App,1.8103940940080412
+APAC,2025-03-01,Offsite,Adx,DM Network,Web+App,2914.6088420335645
+APAC,2025-01-01,Onsite,Adx,DM Network,Web+App,114847.69501227552
+APAC,2025-06-01,Onsite,Adx,DM Network,Web+App,168840.65541044128
+APAC,2025-07-01,Offsite,Adx,DM Network,Web+App,3698.2499608666567
+APAC,2025-05-01,Offsite,Adx,DM Network,Web+App,3832.0923728608363
+APAC,2025-02-01,Onsite,Adx,DM Network,Web+App,145038.24717500727
+APAC,2025-04-01,Offsite,Adx,DM Network,Web+App,2519.3511264181939
+APAC,2025-02-01,Offsite,Adx,DM Network,Web+App,1971.9577727418489
+APAC,2025-04-01,Onsite,Adx,DM Network,Web+App,113139.68848833229
+APAC,2025-07-01,Onsite,Adx,DM Network,Web+App,100361.46150127625
+APAC,2025-03-01,Onsite,Adx,DM Network,Web+App,154752.54253567551
+APAC,2025-06-01,Offsite,Adx,DM Network,Web+App,6214.4465276847159
+APAC,2025-05-01,Onsite,Adx,DM Network,Web+App,121148.71056459009
+APAC,2025-01-01,Offsite,Adx,DM Network,Web+App,1838.2621336942277
+EMEA,2025-03-01,Offsite,Adx,DM Network,Web+App,34006.9956747973
+EMEA,2025-06-01,Onsite,Adx,DM Network,Web+App,283564.01198459021
+EMEA,2025-05-01,Onsite,Adx,DM Network,Web+App,237134.19018022978
+EMEA,2025-05-01,Offsite,Adx,DM Network,Web+App,41515.621508166281
+EMEA,2025-07-01,Offsite,Adx,DM Network,Web+App,34832.8710552738
+EMEA,2025-02-01,Onsite,Adx,DM Network,Web+App,257618.42843681667
+EMEA,2025-03-01,Onsite,Adx,DM Network,Web+App,261004.85369002444
+EMEA,2025-04-01,Offsite,Adx,DM Network,Web+App,30527.495863923814
+EMEA,2025-01-01,Offsite,Adx,DM Network,Web+App,32688.26377449042
+EMEA,2025-01-01,Onsite,Adx,DM Network,Web+App,214815.3292621421
+EMEA,2025-04-01,Onsite,Adx,DM Network,Web+App,253500.95045975811
+EMEA,2025-06-01,Offsite,Adx,DM Network,Web+App,64022.834606072218
+EMEA,2025-02-01,Offsite,Adx,DM Network,Web+App,27968.300932116923
+EMEA,2025-07-01,Onsite,Adx,DM Network,Web+App,166521.2705629385
+France,2025-06-01,Offsite,Adx,DM Network,Web+App,62735.639802363788
+France,2025-05-01,Offsite,Adx,DM Network,Web+App,38026.486570353
+France,2025-03-01,Onsite,Adx,DM Network,Web+App,12339.866572639341
+France,2025-04-01,Offsite,Adx,DM Network,Web+App,28955.376797436449
+France,2025-01-01,Onsite,Adx,DM Network,Web+App,18453.617011591628
+France,2025-05-01,Onsite,Adx,DM Network,Web+App,17881.797485658855
+France,2025-02-01,Offsite,Adx,DM Network,Web+App,38092.77683905897
+France,2025-07-01,Onsite,Adx,DM Network,Web+App,10585.990198407868
+France,2025-03-01,Offsite,Adx,DM Network,Web+App,40428.41176003193
+France,2025-02-01,Onsite,Adx,DM Network,Web+App,17536.23988591821
+France,2025-01-01,Offsite,Adx,DM Network,Web+App,36285.564298955425
+France,2025-06-01,Onsite,Adx,DM Network,Web+App,18131.133980905524
+France,2025-04-01,Onsite,Adx,DM Network,Web+App,13317.193343328041
+France,2025-07-01,Offsite,Adx,DM Network,Web+App,42139.98452895353
+LATAM,2025-06-01,Onsite,Adx,DM Network,Web+App,50192.232749449831
+LATAM,2025-05-01,Onsite,Adx,DM Network,Web+App,42014.944508783563
+LATAM,2025-03-01,Offsite,Adx,DM Network,Web+App,11642.456817584891
+LATAM,2025-04-01,Onsite,Adx,DM Network,Web+App,47855.36108963345
+LATAM,2025-01-01,Offsite,Adx,DM Network,Web+App,8289.1364310137415
+LATAM,2025-06-01,Offsite,Adx,DM Network,Web+App,16481.868505233611
+LATAM,2025-02-01,Onsite,Adx,DM Network,Web+App,50363.093455434566
+LATAM,2025-02-01,Offsite,Adx,DM Network,Web+App,9362.7022990748046
+LATAM,2025-07-01,Offsite,Adx,DM Network,Web+App,8832.0247798050314
+LATAM,2025-03-01,Onsite,Adx,DM Network,Web+App,56130.943956247625
+LATAM,2025-01-01,Onsite,Adx,DM Network,Web+App,36355.008719828744
+LATAM,2025-04-01,Offsite,Adx,DM Network,Web+App,10799.68412896681
+LATAM,2025-07-01,Onsite,Adx,DM Network,Web+App,41313.338549576052
+LATAM,2025-05-01,Offsite,Adx,DM Network,Web+App,14636.084427678708
+NA,2025-06-01,Onsite,Adx,DM Network,Web+App,714522.05302686291
+NA,2025-02-01,Onsite,Adx,DM Network,Web+App,485350.03208236385
+NA,2025-06-01,Offsite,Adx,DM Network,Web+App,31104.638475462187
+NA,2025-05-01,Offsite,Adx,DM Network,Web+App,30031.201052467026
+NA,2025-03-01,Offsite,Adx,DM Network,Web+App,46205.107735667
+NA,2025-04-01,Offsite,Adx,DM Network,Web+App,32880.892074770578
+NA,2025-07-01,Onsite,Adx,DM Network,Web+App,447563.78850108775
+NA,2025-05-01,Onsite,Adx,DM Network,Web+App,490720.2129415347
+NA,2025-04-01,Onsite,Adx,DM Network,Web+App,432942.91971924715
+NA,2025-07-01,Offsite,Adx,DM Network,Web+App,17666.613325404396
+NA,2025-01-01,Offsite,Adx,DM Network,Web+App,20654.119127150669
+NA,2025-01-01,Onsite,Adx,DM Network,Web+App,388637.31842399167
+NA,2025-03-01,Onsite,Adx,DM Network,Web+App,515476.66130607272
+NA,2025-02-01,Offsite,Adx,DM Network,Web+App,21417.790171882785
+,2025-07-01,Offsite,Open Auction,DM Network,Web+App,21.009842885332642
+,2025-02-01,Offsite,Open Auction,DM Network,Web+App,77.548846581754844
+,2025-01-01,Offsite,Open Auction,DM Network,Web+App,12.713592488466075
+,2025-05-01,Onsite,Open Auction,DM Network,Web+App,103.85812966317737
+,2025-01-01,Onsite,Open Auction,DM Network,Web+App,4.9527717675216456
+,2025-07-01,Onsite,Open Auction,DM Network,Web+App,266.01783364449153
+,2025-03-01,Offsite,Open Auction,DM Network,Web+App,578.52845575385493
+,2025-02-01,Onsite,Open Auction,DM Network,Web+App,21.167761399261014
+,2025-04-01,Onsite,Open Auction,DM Network,Web+App,118.8531470672486
+,2025-03-01,Onsite,Open Auction,DM Network,Web+App,119.46828869158388
+,2025-06-01,Offsite,Open Auction,DM Network,Web+App,71.824754600995348
+,2025-04-01,Offsite,Open Auction,DM Network,Web+App,255.38815396074639
+,2025-06-01,Onsite,Open Auction,DM Network,Web+App,286.829312883181
+,2025-05-01,Offsite,Open Auction,DM Network,Web+App,59.6980180253991
+APAC,2025-06-01,Onsite,Open Auction,DM Network,Web+App,88548.302205693777
+APAC,2025-03-01,Offsite,Open Auction,DM Network,Web+App,6354.1098865900512
+APAC,2025-03-01,Onsite,Open Auction,DM Network,Web+App,86994.136573106982
+APAC,2025-02-01,Offsite,Open Auction,DM Network,Web+App,4643.6320858067229
+APAC,2025-01-01,Onsite,Open Auction,DM Network,Web+App,82675.990258469683
+APAC,2025-07-01,Onsite,Open Auction,DM Network,Web+App,45331.688451377777
+APAC,2025-07-01,Offsite,Open Auction,DM Network,Web+App,6461.9749995553111
+APAC,2025-06-01,Offsite,Open Auction,DM Network,Web+App,9202.3027972656964
+APAC,2025-01-01,Offsite,Open Auction,DM Network,Web+App,4470.9444322250065
+APAC,2025-05-01,Onsite,Open Auction,DM Network,Web+App,60175.225813481971
+APAC,2025-05-01,Offsite,Open Auction,DM Network,Web+App,10825.477792827658
+APAC,2025-04-01,Onsite,Open Auction,DM Network,Web+App,38121.379518962385
+APAC,2025-04-01,Offsite,Open Auction,DM Network,Web+App,10416.673859550574
+APAC,2025-02-01,Onsite,Open Auction,DM Network,Web+App,78263.555821171831
+EMEA,2025-05-01,Onsite,Open Auction,DM Network,Web+App,364448.19730327337
+EMEA,2025-04-01,Onsite,Open Auction,DM Network,Web+App,289279.07597056864
+EMEA,2025-03-01,Offsite,Open Auction,DM Network,Web+App,197159.43052871159
+EMEA,2025-02-01,Offsite,Open Auction,DM Network,Web+App,196169.04467248707
+EMEA,2025-03-01,Onsite,Open Auction,DM Network,Web+App,306782.68672020372
+EMEA,2025-01-01,Offsite,Open Auction,DM Network,Web+App,184960.93517394961
+EMEA,2025-04-01,Offsite,Open Auction,DM Network,Web+App,212512.93016164948
+EMEA,2025-02-01,Onsite,Open Auction,DM Network,Web+App,298137.69786153873
+EMEA,2025-06-01,Offsite,Open Auction,DM Network,Web+App,302958.83767586463
+EMEA,2025-07-01,Onsite,Open Auction,DM Network,Web+App,272150.60263595969
+EMEA,2025-07-01,Offsite,Open Auction,DM Network,Web+App,128533.63448671372
+EMEA,2025-05-01,Offsite,Open Auction,DM Network,Web+App,311259.54482117249
+EMEA,2025-06-01,Onsite,Open Auction,DM Network,Web+App,496377.50245607411
+EMEA,2025-01-01,Onsite,Open Auction,DM Network,Web+App,267299.22758616868
+France,2025-03-01,Offsite,Open Auction,DM Network,Web+App,202508.23700887212
+France,2025-01-01,Offsite,Open Auction,DM Network,Web+App,211071.81829745651
+France,2025-02-01,Offsite,Open Auction,DM Network,Web+App,224610.57392920461
+France,2025-07-01,Offsite,Open Auction,DM Network,Web+App,262828.58874473843
+France,2025-02-01,Onsite,Open Auction,DM Network,Web+App,13720.574688277602
+France,2025-03-01,Onsite,Open Auction,DM Network,Web+App,19245.123479552833
+France,2025-06-01,Onsite,Open Auction,DM Network,Web+App,35750.220625087743
+France,2025-01-01,Onsite,Open Auction,DM Network,Web+App,15734.291959965063
+France,2025-04-01,Onsite,Open Auction,DM Network,Web+App,19711.615814836096
+France,2025-04-01,Offsite,Open Auction,DM Network,Web+App,243023.71706753888
+France,2025-07-01,Onsite,Open Auction,DM Network,Web+App,18355.093730362572
+France,2025-05-01,Onsite,Open Auction,DM Network,Web+App,17968.421851934243
+France,2025-06-01,Offsite,Open Auction,DM Network,Web+App,555627.912589121
+France,2025-05-01,Offsite,Open Auction,DM Network,Web+App,403365.69712134392
+LATAM,2025-01-01,Offsite,Open Auction,DM Network,Web+App,10415.367271342013
+LATAM,2025-02-01,Onsite,Open Auction,DM Network,Web+App,34256.266575138128
+LATAM,2025-04-01,Offsite,Open Auction,DM Network,Web+App,19000.223451283997
+LATAM,2025-01-01,Onsite,Open Auction,DM Network,Web+App,27520.618516638333
+LATAM,2025-03-01,Offsite,Open Auction,DM Network,Web+App,25041.494953731319
+LATAM,2025-02-01,Offsite,Open Auction,DM Network,Web+App,8663.8405205170839
+LATAM,2025-03-01,Onsite,Open Auction,DM Network,Web+App,48869.179921732044
+LATAM,2025-06-01,Offsite,Open Auction,DM Network,Web+App,24995.624360780072
+LATAM,2025-07-01,Offsite,Open Auction,DM Network,Web+App,14213.449739712107
+LATAM,2025-04-01,Onsite,Open Auction,DM Network,Web+App,26169.532768525492
+LATAM,2025-07-01,Onsite,Open Auction,DM Network,Web+App,25764.980561144919
+LATAM,2025-06-01,Onsite,Open Auction,DM Network,Web+App,80476.398457593823
+LATAM,2025-05-01,Offsite,Open Auction,DM Network,Web+App,19980.733097373814
+LATAM,2025-05-01,Onsite,Open Auction,DM Network,Web+App,28258.915322133504
+NA,2025-05-01,Offsite,Open Auction,DM Network,Web+App,112131.792853156
+NA,2025-05-01,Onsite,Open Auction,DM Network,Web+App,373183.09213814873
+NA,2025-07-01,Offsite,Open Auction,DM Network,Web+App,83192.827867985208
+NA,2025-03-01,Onsite,Open Auction,DM Network,Web+App,440408.05540136679
+NA,2025-03-01,Offsite,Open Auction,DM Network,Web+App,70068.649393218526
+NA,2025-02-01,Onsite,Open Auction,DM Network,Web+App,433113.43282584386
+NA,2025-02-01,Offsite,Open Auction,DM Network,Web+App,37850.5412737629
+NA,2025-01-01,Offsite,Open Auction,DM Network,Web+App,45023.578183142847
+NA,2025-06-01,Onsite,Open Auction,DM Network,Web+App,509294.43775204325
+NA,2025-04-01,Offsite,Open Auction,DM Network,Web+App,75630.907280503627
+NA,2025-04-01,Onsite,Open Auction,DM Network,Web+App,321644.33179683262
+NA,2025-07-01,Onsite,Open Auction,DM Network,Web+App,328879.73205441906
+NA,2025-06-01,Offsite,Open Auction,DM Network,Web+App,125394.99883981734
+NA,2025-01-01,Onsite,Open Auction,DM Network,Web+App,434664.57164777769
+,2025-02-01,Offsite,Other,DM Network,Web+App,0.014760438718022344
+,2025-01-01,Offsite,Other,DM Network,Web+App,0.049479052267974076
+,2025-04-01,Offsite,Other,DM Network,Web+App,0.02185
+,2025-02-01,Onsite,Other,DM Network,Web+App,0.0057351569999999994
+,2025-03-01,Onsite,Other,DM Network,Web+App,0.0015282595898194174
+,2025-01-01,Onsite,Other,DM Network,Web+App,0.037718816999999988
+,2025-05-01,Offsite,Other,DM Network,Web+App,0.0075000000000000006
+,2025-06-01,Offsite,Other,DM Network,Web+App,0.22669999999999998
+,2025-05-01,Onsite,Other,DM Network,Web+App,0.010499999999999999
+,2025-03-01,Offsite,Other,DM Network,Web+App,0.0304939535763101
+,2025-07-01,Onsite,Other,DM Network,Web+App,24.017992783699924
+,2025-07-01,Offsite,Other,DM Network,Web+App,0.0484
+APAC,2025-04-01,Offsite,Other,DM Network,Web+App,298.207401600808
+APAC,2025-05-01,Offsite,Other,DM Network,Web+App,47.750516414491258
+APAC,2025-01-01,Onsite,Other,DM Network,Web+App,3697.2935576662944
+APAC,2025-06-01,Onsite,Other,DM Network,Web+App,12701.709485764553
+APAC,2025-06-01,Offsite,Other,DM Network,Web+App,48.326005837000018
+APAC,2025-03-01,Offsite,Other,DM Network,Web+App,156.65870631822634
+APAC,2025-03-01,Onsite,Other,DM Network,Web+App,6941.2134990682289
+APAC,2025-02-01,Offsite,Other,DM Network,Web+App,251.80011971304884
+APAC,2025-07-01,Onsite,Other,DM Network,Web+App,4534.0383828555869
+APAC,2025-02-01,Onsite,Other,DM Network,Web+App,3408.8689328064206
+APAC,2025-05-01,Onsite,Other,DM Network,Web+App,4639.8455274693715
+APAC,2025-04-01,Onsite,Other,DM Network,Web+App,4209.3677805555863
+APAC,2025-01-01,Offsite,Other,DM Network,Web+App,313.0779629731054
+APAC,2025-07-01,Offsite,Other,DM Network,Web+App,40.959907399000009
+EMEA,2025-04-01,Offsite,Other,DM Network,Web+App,80311.933492072363
+EMEA,2025-07-01,Offsite,Other,DM Network,Web+App,50203.236759288826
+EMEA,2025-02-01,Onsite,Other,DM Network,Web+App,230541.99715487941
+EMEA,2025-04-01,Onsite,Other,DM Network,Web+App,92687.157429802712
+EMEA,2025-06-01,Onsite,Other,DM Network,Web+App,164920.59815135444
+EMEA,2025-03-01,Offsite,Other,DM Network,Web+App,100605.59267172351
+EMEA,2025-05-01,Offsite,Other,DM Network,Web+App,63480.394392917915
+EMEA,2025-07-01,Onsite,Other,DM Network,Web+App,103596.59929747878
+EMEA,2025-01-01,Onsite,Other,DM Network,Web+App,238237.46095591021
+EMEA,2025-01-01,Offsite,Other,DM Network,Web+App,95345.2940519874
+EMEA,2025-05-01,Onsite,Other,DM Network,Web+App,123188.91805907746
+EMEA,2025-06-01,Offsite,Other,DM Network,Web+App,90080.191416975853
+EMEA,2025-03-01,Onsite,Other,DM Network,Web+App,234527.0067388498
+EMEA,2025-02-01,Offsite,Other,DM Network,Web+App,107148.05109300553
+France,2025-04-01,Offsite,Other,DM Network,Web+App,20656.533996407419
+France,2025-06-01,Onsite,Other,DM Network,Web+App,86.615891957999764
+France,2025-01-01,Offsite,Other,DM Network,Web+App,8482.50380996073
+France,2025-02-01,Offsite,Other,DM Network,Web+App,8028.5899137445294
+France,2025-06-01,Offsite,Other,DM Network,Web+App,32422.615275008338
+France,2025-05-01,Offsite,Other,DM Network,Web+App,14301.397339770934
+France,2025-07-01,Onsite,Other,DM Network,Web+App,16.943736797663455
+France,2025-07-01,Offsite,Other,DM Network,Web+App,16037.358335490182
+France,2025-04-01,Onsite,Other,DM Network,Web+App,604.06019363269331
+France,2025-01-01,Onsite,Other,DM Network,Web+App,162.03359662567183
+France,2025-03-01,Onsite,Other,DM Network,Web+App,472.04982223969449
+France,2025-02-01,Onsite,Other,DM Network,Web+App,223.10590344063715
+France,2025-05-01,Onsite,Other,DM Network,Web+App,618.0060074199979
+France,2025-03-01,Offsite,Other,DM Network,Web+App,11236.407613673964
+LATAM,2025-04-01,Onsite,Other,DM Network,Web+App,5.2528481010000014
+LATAM,2025-01-01,Onsite,Other,DM Network,Web+App,357.16716374984065
+LATAM,2025-05-01,Offsite,Other,DM Network,Web+App,0.92517924800000062
+LATAM,2025-05-01,Onsite,Other,DM Network,Web+App,3.8679764229999996
+LATAM,2025-02-01,Onsite,Other,DM Network,Web+App,1208.0439861326981
+LATAM,2025-06-01,Offsite,Other,DM Network,Web+App,2.466746308
+LATAM,2025-01-01,Offsite,Other,DM Network,Web+App,1269.685326073198
+LATAM,2025-07-01,Offsite,Other,DM Network,Web+App,0.21919999999999995
+LATAM,2025-03-01,Onsite,Other,DM Network,Web+App,966.57183036462845
+LATAM,2025-07-01,Onsite,Other,DM Network,Web+App,15.5992288146227
+LATAM,2025-02-01,Offsite,Other,DM Network,Web+App,6090.5189119670058
+LATAM,2025-03-01,Offsite,Other,DM Network,Web+App,5045.5233707510261
+LATAM,2025-06-01,Onsite,Other,DM Network,Web+App,13.404779964999998
+LATAM,2025-04-01,Offsite,Other,DM Network,Web+App,0.8615444690000007
+NA,2025-06-01,Onsite,Other,DM Network,Web+App,2919.8449986695855
+NA,2025-07-01,Onsite,Other,DM Network,Web+App,506.40547320214256
+NA,2025-02-01,Offsite,Other,DM Network,Web+App,815.77870423476543
+NA,2025-03-01,Onsite,Other,DM Network,Web+App,8461.4211475235861
+NA,2025-06-01,Offsite,Other,DM Network,Web+App,217.25073984511744
+NA,2025-03-01,Offsite,Other,DM Network,Web+App,1331.9630135618463
+NA,2025-04-01,Onsite,Other,DM Network,Web+App,9448.76337242748
+NA,2025-05-01,Onsite,Other,DM Network,Web+App,6522.0770564046488
+NA,2025-02-01,Onsite,Other,DM Network,Web+App,18198.451185271075
+NA,2025-07-01,Offsite,Other,DM Network,Web+App,68.125125092059051
+NA,2025-05-01,Offsite,Other,DM Network,Web+App,903.6123711328006
+NA,2025-04-01,Offsite,Other,DM Network,Web+App,1474.2163159848669
+NA,2025-01-01,Offsite,Other,DM Network,Web+App,1333.3525570534259
+NA,2025-01-01,Onsite,Other,DM Network,Web+App,28150.916617221847
+,2025-01-01,Onsite,Sales Driven Direct,DM Network,Web+App,0.1371719738115926
+,2025-05-01,Audience Extension,Sales Driven Direct,DV360,Web+App,0.10200000635294149
+,2025-06-01,Onsite,Sales Driven Direct,DM Network,Web+App,0.005596472
+,2025-04-01,Onsite,Sales Driven Direct,DM Network,Web+App,0.11720485299999997
+,2025-03-01,Onsite,Sales Driven Direct,DM Network,Web+App,0.15219322807401192
+,2025-05-01,Offsite,Sales Driven Direct,DM Network,Web+App,0.006
+,2025-02-01,Onsite,Sales Driven Direct,DM Network,Web+App,0.17295353
+,2025-05-01,Onsite,Sales Driven Direct,DM Network,Web+App,0.034515029
+,2025-07-01,Onsite,Sales Driven Direct,DM Network,Web+App,1.83738532128416
+APAC,2025-07-01,Offsite,Sales Driven Direct,DM Network,Web+App,1025.7508040532755
+APAC,2025-06-01,Onsite,Sales Driven Direct,DM Network,Web+App,30880.311022283422
+APAC,2025-04-01,Onsite,Sales Driven Direct,DM Network,Web+App,79291.955496249037
+APAC,2025-05-01,Audience Extension,Sales Driven Direct,DV360,Web+App,9068.7254997752061
+APAC,2025-03-01,Audience Extension,Sales Driven Direct,DV360,Web+App,26572.703206951908
+APAC,2025-04-01,Offsite,Sales Driven Direct,DM Network,Web+App,10063.615477936997
+APAC,2025-02-01,Offsite,Sales Driven Direct,DM Network,Web+App,3069.5384000000122
+APAC,2025-05-01,Onsite,Sales Driven Direct,DM Network,Web+App,62112.451468094543
+APAC,2025-04-01,Audience Extension,Sales Driven Direct,Equativ Curator,Web+App,2714.3082369799886
+APAC,2025-01-01,Offsite,Sales Driven Direct,DM Network,Web+App,356.20269999999988
+APAC,2025-01-01,Onsite,Sales Driven Direct,DM Network,Web+App,4984.6624445999523
+APAC,2025-01-01,Audience Extension,Sales Driven Direct,DV360,Web+App,5198.9957296933089
+APAC,2025-07-01,Audience Extension,Sales Driven Direct,DV360,Web+App,6103.9224403129256
+APAC,2025-05-01,Offsite,Sales Driven Direct,DM Network,Web+App,11116.645843508073
+APAC,2025-02-01,Onsite,Sales Driven Direct,DM Network,Web+App,12940.356926282939
+APAC,2025-04-01,Audience Extension,Sales Driven Direct,DV360,Web+App,14699.964265187313
+APAC,2025-03-01,Offsite,Sales Driven Direct,DM Network,Web+App,4399.613403783861
+APAC,2025-06-01,Audience Extension,Sales Driven Direct,DV360,Web+App,10930.36257947418
+APAC,2025-07-01,Onsite,Sales Driven Direct,DM Network,Web+App,36209.13315084557
+APAC,2025-06-01,Offsite,Sales Driven Direct,DM Network,Web+App,1325.1911381109931
+APAC,2025-03-01,Onsite,Sales Driven Direct,DM Network,Web+App,41642.09635375662
+EMEA,2025-07-01,Audience Extension,Sales Driven Direct,DV360,Web+App,103014.30233350198
+EMEA,2025-04-01,Onsite,Sales Driven Direct,DM Network,Web+App,171648.13728614984
+EMEA,2025-06-01,Offsite,Sales Driven Direct,DM Network,Web+App,136901.83852093454
+EMEA,2025-01-01,Audience Extension,Sales Driven Direct,DV360,Web+App,115651.6017977201
+EMEA,2025-04-01,Audience Extension,Sales Driven Direct,DV360,Web+App,168968.70705346213
+EMEA,2025-01-01,Offsite,Sales Driven Direct,DM Network,Web+App,62394.474004391435
+EMEA,2025-05-01,Onsite,Sales Driven Direct,DM Network,Web+App,289827.38938636228
+EMEA,2025-05-01,Offsite,Sales Driven Direct,DM Network,Web+App,98946.3169631949
+EMEA,2025-02-01,Onsite,Sales Driven Direct,DM Network,Web+App,236949.13530149646
+EMEA,2025-06-01,Audience Extension,Sales Driven Direct,DV360,Web+App,180141.1945078219
+EMEA,2025-02-01,Offsite,Sales Driven Direct,DM Network,Web+App,62109.034551706682
+EMEA,2025-03-01,Onsite,Sales Driven Direct,DM Network,Web+App,224495.85831450514
+EMEA,2025-01-01,Onsite,Sales Driven Direct,DM Network,Web+App,136295.66387994372
+EMEA,2025-07-01,Offsite,Sales Driven Direct,DM Network,Web+App,48087.944717804472
+EMEA,2025-02-01,Audience Extension,Sales Driven Direct,DV360,Web+App,153795.81289038158
+EMEA,2025-05-01,Audience Extension,Sales Driven Direct,DV360,Web+App,196547.30681476448
+EMEA,2025-03-01,Offsite,Sales Driven Direct,DM Network,Web+App,64635.610522210132
+EMEA,2025-03-01,Audience Extension,Sales Driven Direct,DV360,Web+App,267539.84417970752
+EMEA,2025-06-01,Onsite,Sales Driven Direct,DM Network,Web+App,307062.30969886167
+EMEA,2025-04-01,Offsite,Sales Driven Direct,DM Network,Web+App,53228.920104070232
+EMEA,2025-07-01,Onsite,Sales Driven Direct,DM Network,Web+App,104509.25355314605
+France,2025-04-01,Onsite,Sales Driven Direct,DM Network,Web+App,54128.313501385594
+France,2025-05-01,Onsite,Sales Driven Direct,DM Network,Web+App,44650.04562212911
+France,2025-05-01,Audience Extension,Sales Driven Direct,DV360,Web+App,223548.78939921324
+France,2025-07-01,Offsite,Sales Driven Direct,DM Network,Web+App,492266.69975109026
+France,2025-06-01,Audience Extension,Sales Driven Direct,DV360,Web+App,206207.13202196418
+France,2025-02-01,Audience Extension,Sales Driven Direct,DV360,Web+App,135441.09677357809
+France,2025-06-01,Offsite,Sales Driven Direct,DM Network,Web+App,1084972.4708475722
+France,2025-05-01,Offsite,Sales Driven Direct,DM Network,Web+App,652829.39010592829
+France,2025-01-01,Onsite,Sales Driven Direct,DM Network,Web+App,19334.20476734679
+France,2025-03-01,Offsite,Sales Driven Direct,DM Network,Web+App,882348.00946015341
+France,2025-02-01,Onsite,Sales Driven Direct,DM Network,Web+App,21785.446752973414
+France,2025-04-01,Audience Extension,Sales Driven Direct,DV360,Web+App,80547.880307899584
+France,2025-07-01,Onsite,Sales Driven Direct,DM Network,Web+App,17089.150286694115
+France,2025-07-01,Audience Extension,Sales Driven Direct,DV360,Web+App,62116.538122624654
+France,2025-03-01,Audience Extension,Sales Driven Direct,DV360,Web+App,151081.99733015819
+France,2025-02-01,Offsite,Sales Driven Direct,DM Network,Web+App,355861.89948037977
+France,2025-01-01,Audience Extension,Sales Driven Direct,DV360,Web+App,33479.593777898561
+France,2025-04-01,Audience Extension,Sales Driven Direct,Spring Serve,CTV,48939.193224351387
+France,2025-04-01,Offsite,Sales Driven Direct,DM Network,Web+App,752282.55462888547
+France,2025-02-01,Audience Extension,Sales Driven Direct,Spring Serve,CTV,5603.0809862487213
+France,2025-06-01,Onsite,Sales Driven Direct,DM Network,Web+App,63529.344712309219
+France,2025-03-01,Onsite,Sales Driven Direct,DM Network,Web+App,67021.764855272122
+France,2025-03-01,Audience Extension,Sales Driven Direct,Spring Serve,CTV,54820.425219964236
+France,2025-01-01,Offsite,Sales Driven Direct,DM Network,Web+App,373457.4068602621
+International,2025-07-01,Audience Extension,Sales Driven Direct,Xandr Curator,Web+App,71754.3
+Italy,2025-05-01,Audience Extension,Sales Driven Direct,Spring Serve,CTV,9333.4248263720037
+Italy,2025-04-01,Audience Extension,Sales Driven Direct,Spring Serve,CTV,26277.394250581645
+Italy,2025-03-01,Audience Extension,Sales Driven Direct,Spring Serve,CTV,270.92981376929862
+LATAM,2025-02-01,Audience Extension,Sales Driven Direct,DV360,Web+App,22680.7548426082
+LATAM,2025-02-01,Offsite,Sales Driven Direct,DM Network,Web+App,2220.171514158827
+LATAM,2025-03-01,Offsite,Sales Driven Direct,DM Network,Web+App,830.08905259569281
+LATAM,2025-05-01,Offsite,Sales Driven Direct,DM Network,Web+App,1950.5898903954499
+LATAM,2025-05-01,Audience Extension,Sales Driven Direct,DV360,Web+App,45180.654267945058
+LATAM,2025-06-01,Offsite,Sales Driven Direct,DM Network,Web+App,34.689410880311584
+LATAM,2025-06-01,Onsite,Sales Driven Direct,DM Network,Web+App,10992.882428031857
+LATAM,2025-07-01,Onsite,Sales Driven Direct,DM Network,Web+App,106.79613339623259
+LATAM,2025-04-01,Offsite,Sales Driven Direct,DM Network,Web+App,590.60333096810712
+LATAM,2025-03-01,Audience Extension,Sales Driven Direct,DV360,Web+App,55603.4461792619
+LATAM,2025-05-01,Onsite,Sales Driven Direct,DM Network,Web+App,5624.219868310136
+LATAM,2025-01-01,Onsite,Sales Driven Direct,DM Network,Web+App,9957.0663387191271
+LATAM,2025-02-01,Onsite,Sales Driven Direct,DM Network,Web+App,8877.20289189885
+LATAM,2025-07-01,Offsite,Sales Driven Direct,DM Network,Web+App,8.1815986506016358
+LATAM,2025-06-01,Audience Extension,Sales Driven Direct,DV360,Web+App,91647.749365951546
+LATAM,2025-03-01,Onsite,Sales Driven Direct,DM Network,Web+App,2137.9306152324448
+LATAM,2025-04-01,Onsite,Sales Driven Direct,DM Network,Web+App,1943.6475762325078
+LATAM,2025-04-01,Audience Extension,Sales Driven Direct,DV360,Web+App,46221.029162728664
+LATAM,2025-01-01,Offsite,Sales Driven Direct,DM Network,Web+App,793.67132274258461
+LATAM,2025-07-01,Audience Extension,Sales Driven Direct,DV360,Web+App,83161.2232462262
+LATAM,2025-01-01,Audience Extension,Sales Driven Direct,DV360,Web+App,83455.843078078688
+NA,2025-04-01,Audience Extension,Sales Driven Direct,DV360,Web+App,208869.71621903992
+NA,2025-02-01,Onsite,Sales Driven Direct,DM Network,Web+App,7760.9427660492211
+NA,2025-06-01,Audience Extension,Sales Driven Direct,DV360,Web+App,298202.73962033656
+NA,2025-02-01,Audience Extension,Sales Driven Direct,DV360,Web+App,318156.85496828036
+NA,2025-04-01,Offsite,Sales Driven Direct,DM Network,Web+App,65.117089221771
+NA,2025-01-01,Offsite,Sales Driven Direct,DM Network,Web+App,669.06182818233435
+NA,2025-03-01,Audience Extension,Sales Driven Direct,DV360,Web+App,359926.59487977345
+NA,2025-07-01,Offsite,Sales Driven Direct,DM Network,Web+App,23.592631458764345
+NA,2025-03-01,Offsite,Sales Driven Direct,DM Network,Web+App,2.6158642799334091
+NA,2025-01-01,Onsite,Sales Driven Direct,DM Network,Web+App,495.59135354200197
+NA,2025-05-01,Audience Extension,Sales Driven Direct,DV360,Web+App,244672.28235567655
+NA,2025-05-01,Onsite,Sales Driven Direct,DM Network,Web+App,6210.9577535665931
+NA,2025-02-01,Offsite,Sales Driven Direct,DM Network,Web+App,1694.7989306924044
+NA,2025-03-01,Onsite,Sales Driven Direct,DM Network,Web+App,2078.2466286576296
+NA,2025-01-01,Audience Extension,Sales Driven Direct,DV360,Web+App,185389.48862407703
+NA,2025-07-01,Onsite,Sales Driven Direct,DM Network,Web+App,651.39327281165822
+NA,2025-06-01,Offsite,Sales Driven Direct,DM Network,Web+App,62.866750486590732
+NA,2025-06-01,Onsite,Sales Driven Direct,DM Network,Web+App,21397.672115119818
+NA,2025-04-01,Onsite,Sales Driven Direct,DM Network,Web+App,5141.9181882066
+NA,2025-07-01,Audience Extension,Sales Driven Direct,DV360,Web+App,75295.3389329578
+NA,2025-05-01,Offsite,Sales Driven Direct,DM Network,Web+App,752.74820489625938
+Spain,2025-06-01,Audience Extension,Sales Driven Direct,Xandr Curator,Web+App,3057.6672
+Spain,2025-04-01,Audience Extension,Sales Driven Direct,Xandr Curator,Web+App,289.101
+Spain,2025-05-01,Audience Extension,Sales Driven Direct,Xandr Curator,Web+App,17717.0338
+,2025-02-01,Onsite,Sales Driven Prog,DM Network,Web+App,1.0464978708533126
+,2025-04-01,Onsite,Sales Driven Prog,DM Network,Web+App,0.02242
+,2025-05-01,Onsite,Sales Driven Prog,DM Network,Web+App,1.2506000000000006
+,2025-06-01,Onsite,Sales Driven Prog,DM Network,Web+App,0.035854105878464188
+,2025-07-01,Onsite,Sales Driven Prog,DM Network,Web+App,42.728354840210635
+,2025-03-01,Onsite,Sales Driven Prog,DM Network,Web+App,0.21383125517444596
+,2025-01-01,Onsite,Sales Driven Prog,DM Network,Web+App,0.724067329247301
+APAC,2025-05-01,Audience Extension,Sales Driven Prog,Equativ Curator,Web+App,34.973569495880433
+APAC,2025-07-01,Offsite,Sales Driven Prog,DM Network,Web+App,99.4559399999999
+APAC,2025-01-01,Offsite,Sales Driven Prog,DM Network,Web+App,199.11724999999979
+APAC,2025-03-01,Onsite,Sales Driven Prog,DM Network,Web+App,13448.156374328439
+APAC,2025-03-01,Offsite,Sales Driven Prog,DM Network,Web+App,1159.3791329112162
+APAC,2025-02-01,Offsite,Sales Driven Prog,DM Network,Web+App,98.378249999999937
+APAC,2025-07-01,Onsite,Sales Driven Prog,DM Network,Web+App,2544.5272074572467
+APAC,2025-06-01,Onsite,Sales Driven Prog,DM Network,Web+App,9354.137510918601
+APAC,2025-05-01,Onsite,Sales Driven Prog,DM Network,Web+App,39218.9540942189
+APAC,2025-02-01,Onsite,Sales Driven Prog,DM Network,Web+App,14746.087941663165
+APAC,2025-04-01,Offsite,Sales Driven Prog,DM Network,Web+App,1386.6867790328242
+APAC,2025-04-01,Audience Extension,Sales Driven Prog,Equativ Curator,Web+App,35.989651868100943
+APAC,2025-06-01,Audience Extension,Sales Driven Prog,Equativ Curator,Web+App,1.5661975041939746
+APAC,2025-04-01,Onsite,Sales Driven Prog,DM Network,Web+App,20785.896577125994
+APAC,2025-06-01,Offsite,Sales Driven Prog,DM Network,Web+App,476.75230143179937
+APAC,2025-05-01,Offsite,Sales Driven Prog,DM Network,Web+App,2728.8266900000026
+APAC,2025-01-01,Onsite,Sales Driven Prog,DM Network,Web+App,21681.487225452416
+EMEA,2025-05-01,Offsite,Sales Driven Prog,DM Network,Web+App,144066.18477866609
+EMEA,2025-06-01,Onsite,Sales Driven Prog,DM Network,Web+App,132957.16127414934
+EMEA,2025-05-01,Onsite,Sales Driven Prog,DM Network,Web+App,138425.95211940448
+EMEA,2025-03-01,Onsite,Sales Driven Prog,DM Network,Web+App,136088.16247141222
+EMEA,2025-02-01,Onsite,Sales Driven Prog,DM Network,Web+App,129459.42071734865
+EMEA,2025-03-01,Offsite,Sales Driven Prog,DM Network,Web+App,104597.17752287442
+EMEA,2025-07-01,Offsite,Sales Driven Prog,DM Network,Web+App,61644.10960725027
+EMEA,2025-01-01,Offsite,Sales Driven Prog,DM Network,Web+App,93378.8833943055
+EMEA,2025-06-01,Offsite,Sales Driven Prog,DM Network,Web+App,139653.54188600654
+EMEA,2025-01-01,Onsite,Sales Driven Prog,DM Network,Web+App,115428.86066575765
+EMEA,2025-04-01,Onsite,Sales Driven Prog,DM Network,Web+App,93106.505273103729
+EMEA,2025-02-01,Offsite,Sales Driven Prog,DM Network,Web+App,112824.77615693855
+EMEA,2025-04-01,Offsite,Sales Driven Prog,DM Network,Web+App,92617.820973332913
+EMEA,2025-07-01,Onsite,Sales Driven Prog,DM Network,Web+App,97321.010472400056
+France,2025-05-01,Audience Extension,Sales Driven Prog,Equativ Curator,Web+App,33835.4265
+France,2025-02-01,Offsite,Sales Driven Prog,DM Network,Web+App,522140.44258525455
+France,2025-04-01,Audience Extension,Sales Driven Prog,Equativ Curator,Web+App,10807.716003999998
+France,2025-07-01,Audience Extension,Sales Driven Prog,Xandr Curator,Web+App,32232.586500230387
+France,2025-04-01,Onsite,Sales Driven Prog,DM Network,Web+App,65744.0354247295
+France,2025-03-01,Onsite,Sales Driven Prog,DM Network,Web+App,94219.851157658617
+France,2025-06-01,Audience Extension,Sales Driven Prog,Equativ Curator-Xandr Curator,Web+App,4739.0235
+France,2025-04-01,Offsite,Sales Driven Prog,DM Network,Web+App,745845.42287409387
+France,2025-06-01,Audience Extension,Sales Driven Prog,Xandr Curator,Web+App,675.04122998350806
+France,2025-02-01,Onsite,Sales Driven Prog,DM Network,Web+App,106685.96000474429
+France,2025-01-01,Onsite,Sales Driven Prog,DM Network,Web+App,67239.800226273728
+France,2025-07-01,Offsite,Sales Driven Prog,DM Network,Web+App,716108.69087316876
+France,2025-05-01,Onsite,Sales Driven Prog,DM Network,Web+App,71711.594721203175
+France,2025-07-01,Onsite,Sales Driven Prog,DM Network,Web+App,45550.329449739511
+France,2025-06-01,Onsite,Sales Driven Prog,DM Network,Web+App,59964.82831464045
+France,2025-05-01,Offsite,Sales Driven Prog,DM Network,Web+App,821654.94195829832
+France,2025-06-01,Offsite,Sales Driven Prog,DM Network,Web+App,1096496.9765034998
+France,2025-03-01,Offsite,Sales Driven Prog,DM Network,Web+App,851738.18111171492
+France,2025-01-01,Offsite,Sales Driven Prog,DM Network,Web+App,546873.16882113251
+International,2025-06-01,Audience Extension,Sales Driven Prog,Xandr Curator,Web+App,4514.7920723742272
+International,2025-07-01,Audience Extension,Sales Driven Prog,Equativ Curator,Web+App,7904.0834474401154
+International,2025-05-01,Audience Extension,Sales Driven Prog,Xandr Curator,Web+App,4495.8884503380141
+International,2025-07-01,Audience Extension,Sales Driven Prog,Xandr Curator,Web+App,151093.4044343303
+International,2025-04-01,Audience Extension,Sales Driven Prog,Equativ Curator,Web+App,261.3215437310804
+International,2025-05-01,Audience Extension,Sales Driven Prog,Equativ Curator,Web+App,13837.468485103876
+International,2025-04-01,Audience Extension,Sales Driven Prog,Xandr Curator,Web+App,71245.73
+International,2025-06-01,Audience Extension,Sales Driven Prog,Equativ Curator,Web+App,121092.87165882092
+Italy,2025-07-01,Audience Extension,Sales Driven Prog,Xandr Curator,Web+App,27778.67241045964
+Italy,2025-04-01,Audience Extension,Sales Driven Prog,Xandr Curator,Web+App,3895.3778496458494
+Italy,2025-05-01,Audience Extension,Sales Driven Prog,Xandr Curator,Web+App,53574.424937063312
+Italy,2025-04-01,Audience Extension,Sales Driven Prog,Equativ Curator,Web+App,262.29690000000005
+Italy,2025-05-01,Audience Extension,Sales Driven Prog,Equativ Curator,Web+App,1670.8239
+Italy,2025-06-01,Audience Extension,Sales Driven Prog,Xandr Curator,Web+App,112413.15871946764
+Italy,2025-07-01,Audience Extension,Sales Driven Prog,Equativ Curator,Web+App,6230.0877913636587
+LATAM,2025-07-01,Onsite,Sales Driven Prog,DM Network,Web+App,7320.6968482138091
+LATAM,2025-05-01,Offsite,Sales Driven Prog,DM Network,Web+App,6577.0475558696626
+LATAM,2025-07-01,Audience Extension,Sales Driven Prog,Equativ Curator,Web+App,2728.985042651509
+LATAM,2025-04-01,Audience Extension,Sales Driven Prog,Equativ Curator,Web+App,6474.6315660983837
+LATAM,2025-06-01,Audience Extension,Sales Driven Prog,Equativ Curator,Web+App,2551.1233056610854
+LATAM,2025-07-01,Offsite,Sales Driven Prog,DM Network,Web+App,285.23687196565635
+LATAM,2025-04-01,Onsite,Sales Driven Prog,DM Network,Web+App,11101.053953687271
+LATAM,2025-01-01,Onsite,Sales Driven Prog,DM Network,Web+App,1065.2465901698038
+LATAM,2025-01-01,Offsite,Sales Driven Prog,DM Network,Web+App,760.87365994371567
+LATAM,2025-06-01,Onsite,Sales Driven Prog,DM Network,Web+App,4944.15764963444
+LATAM,2025-04-01,Offsite,Sales Driven Prog,DM Network,Web+App,12546.423232851497
+LATAM,2025-06-01,Offsite,Sales Driven Prog,DM Network,Web+App,10486.466238734856
+LATAM,2025-03-01,Offsite,Sales Driven Prog,DM Network,Web+App,18040.998546525341
+LATAM,2025-03-01,Onsite,Sales Driven Prog,DM Network,Web+App,5459.0527247833952
+LATAM,2025-02-01,Offsite,Sales Driven Prog,DM Network,Web+App,1639.3029411644525
+LATAM,2025-02-01,Onsite,Sales Driven Prog,DM Network,Web+App,317.26986776613546
+LATAM,2025-05-01,Onsite,Sales Driven Prog,DM Network,Web+App,3635.194033540663
+NA,2025-03-01,Onsite,Sales Driven Prog,DM Network,Web+App,109836.42519425723
+NA,2025-04-01,Onsite,Sales Driven Prog,DM Network,Web+App,20761.021253978091
+NA,2025-05-01,Offsite,Sales Driven Prog,DM Network,Web+App,1261.1045536709134
+NA,2025-03-01,Offsite,Sales Driven Prog,DM Network,Web+App,12001.593529264774
+NA,2025-04-01,Offsite,Sales Driven Prog,DM Network,Web+App,94.021807642423838
+NA,2025-06-01,Audience Extension,Sales Driven Prog,Xandr Curator,Web+App,302690.6732646653
+NA,2025-07-01,Onsite,Sales Driven Prog,DM Network,Web+App,2072.9593286677969
+NA,2025-06-01,Offsite,Sales Driven Prog,DM Network,Web+App,627.43688680656294
+NA,2025-01-01,Offsite,Sales Driven Prog,DM Network,Web+App,72.500750000000025
+NA,2025-05-01,Audience Extension,Sales Driven Prog,Equativ Curator,Web+App,0.031201372855413419
+NA,2025-07-01,Offsite,Sales Driven Prog,DM Network,Web+App,2.396945612450736
+NA,2025-02-01,Onsite,Sales Driven Prog,DM Network,Web+App,94325.674141467884
+NA,2025-05-01,Audience Extension,Sales Driven Prog,Xandr Curator,Web+App,372876.69969799777
+NA,2025-06-01,Onsite,Sales Driven Prog,DM Network,Web+App,11125.020739426527
+NA,2025-02-01,Offsite,Sales Driven Prog,DM Network,Web+App,5098.3520834523924
+NA,2025-04-01,Audience Extension,Sales Driven Prog,Xandr Curator,Web+App,31503.04724453533
+NA,2025-07-01,Audience Extension,Sales Driven Prog,Xandr Curator,Web+App,91299.9774634533
+NA,2025-05-01,Onsite,Sales Driven Prog,DM Network,Web+App,16811.607069210797
+NA,2025-01-01,Onsite,Sales Driven Prog,DM Network,Web+App,20618.409514932497
+Other,2025-05-01,Audience Extension,Sales Driven Prog,Equativ Curator,Web+App,51629.175111408382
+Other,2025-05-01,Audience Extension,Sales Driven Prog,Xandr Curator,Web+App,50950.1170046802
+Other,2025-06-01,Audience Extension,Sales Driven Prog,Xandr Curator,Web+App,45186.233671668131
+Other,2025-07-01,Audience Extension,Sales Driven Prog,Xandr Curator,Web+App,36286.483094928481
+Spain,2025-05-01,Audience Extension,Sales Driven Prog,Equativ Curator,Web+App,2187.8815624236877
+Spain,2025-05-01,Audience Extension,Sales Driven Prog,Xandr Curator,Web+App,38986.332632555568
+Spain,2025-06-01,Audience Extension,Sales Driven Prog,Xandr Curator,Web+App,31699.982249765493
+Spain,2025-07-01,Audience Extension,Sales Driven Prog,Equativ Curator,Web+App,1605.5096788980645
+Spain,2025-07-01,Audience Extension,Sales Driven Prog,Xandr Curator,Web+App,14822.675898898349
+Spain,2025-04-01,Audience Extension,Sales Driven Prog,Equativ Curator,Web+App,10978.1718131118
+Spain,2025-06-01,Audience Extension,Sales Driven Prog,Equativ Curator,Web+App,4678.5950642809876
+Spain,2025-04-01,Audience Extension,Sales Driven Prog,Xandr Curator,Web+App,26776.865927537005
