@@ -2,9 +2,18 @@ import pandas as pd
 import dash
 from dash import dcc, html, Input, Output
 import plotly.graph_objects as go
+import pandas_gbq
 
 # Load the CSV file
-df = pd.read_csv('data_v1.csv')
+#df = pd.read_csv('data_v2.csv')
+
+query = """
+SELECT *
+FROM `dailymotion-data.users_kfeurprier.2025_supply_demand_sankey`
+"""
+
+# This will prompt you to authenticate in a browser the first time
+df = pandas_gbq.read_gbq(query, project_id='dailymotion-data')
 
 # For device_type == 'Web+App', set supply_source
 df.loc[
@@ -18,7 +27,8 @@ df.loc[
     'supply_source'
 ] = 'Audience Extension (CTV)'
 
-df.fillna("N/A", inplace=True)
+#df['region'].fillna("N/A", inplace=True)
+df['region'] = df['region'].fillna('N/A')
 
 app = dash.Dash(__name__)
 
@@ -58,9 +68,9 @@ def update_sankey(region, month):
     import plotly.graph_objects as go
 
     filtered_df = df.copy()
-    title = "Sankey Chart"
+    title = "Sankey (demande_source to supply_source)"
 
-    # Apply filters if needed
+    # Apply filters
     if region and region != "All":
         filtered_df = filtered_df[filtered_df['region'] == region]
         title += f" | Region: {region}"
@@ -75,57 +85,52 @@ def update_sankey(region, month):
     # Audience Extension types for breakdown
     ae_types = ["Audience Extension (Web+App)", "Audience Extension (CTV)"]
 
-    # --- Calculate percentages ---
+    # --- Calculate percentages (for demande_source and supply_source) ---
     total_revenue = filtered_df['revenue'].sum()
-    supply_pct = (filtered_df.groupby('supply_source')['revenue'].sum() / total_revenue * 100).round(1)
     demand_pct = (filtered_df.groupby('demande_source')['revenue'].sum() / total_revenue * 100).round(1)
+    supply_pct = (filtered_df.groupby('supply_source')['revenue'].sum() / total_revenue * 100).round(1)
 
-    # --- Node labels with percentages ---
-    sources = filtered_df['supply_source'].unique().tolist()
-    plateformes = filtered_df.loc[filtered_df['supply_source'].isin(ae_types), 'plateforme_AE'].unique().tolist()
+    # --- Node labels with line breaks and percentages ---
+    def label_with_break(label, pct=None):
+        return f"{label}<br>({pct:.1f}%)" if pct is not None else label
+
     demandes = filtered_df['demande_source'].unique().tolist()
-    
-    # Helper for line breaks (retour à la ligne)
-    def linebreak_label(label, pct=None):
-        if pct is not None:
-            return f"{label}<br>({pct:.1f}%)"
-        return label
+    demandes_labels = [label_with_break(d, demand_pct[d]) if d in demand_pct else d for d in demandes]
+    plateformes = filtered_df.loc[filtered_df['supply_source'].isin(ae_types), 'plateforme_AE'].unique().tolist()
+    plateformes_labels = plateformes
+    supplies = filtered_df['supply_source'].unique().tolist()
+    supplies_labels = [label_with_break(s, supply_pct[s]) if s in supply_pct else s for s in supplies]
 
-    sources_labels = [linebreak_label(s, supply_pct[s]) if s in supply_pct else s for s in sources]
-    plateformes_labels = plateformes  # usually no percentage for intermediates
-    demandes_labels = [linebreak_label(d, demand_pct[d]) if d in demand_pct else d for d in demandes]
-
-    all_labels = sources_labels + plateformes_labels + demandes_labels
+    all_labels = demandes_labels + plateformes_labels + supplies_labels
     label_indices = {label: i for i, label in enumerate(all_labels)}
 
-    # Mapping original values to labels with percentages
-    supply_map = {s: l for s, l in zip(sources, sources_labels)}
+    # Map original names to label versions
     demand_map = {d: l for d, l in zip(demandes, demandes_labels)}
+    supply_map = {s: l for s, l in zip(supplies, supplies_labels)}
 
     # --- Links ---
-    # 1. Audience Extension types: supply_source → plateforme_AE → demande_source
+    # 1. Audience Extension types: demande_source → plateforme_AE → supply_source
     ae_df = filtered_df[filtered_df['supply_source'].isin(ae_types)].copy()
-    # supply_source → plateforme_AE
-    links1_ae = ae_df.groupby(['supply_source', 'plateforme_AE'])['revenue'].sum().reset_index()
-    links1_ae['source'] = links1_ae['supply_source'].map(supply_map).map(label_indices)
+    # demande_source → plateforme_AE
+    links1_ae = ae_df.groupby(['demande_source', 'plateforme_AE'])['revenue'].sum().reset_index()
+    links1_ae['source'] = links1_ae['demande_source'].map(demand_map).map(label_indices)
     links1_ae['target'] = links1_ae['plateforme_AE'].map(label_indices)
-    # plateforme_AE → demande_source
-    links2_ae = ae_df.groupby(['plateforme_AE', 'demande_source'])['revenue'].sum().reset_index()
+    # plateforme_AE → supply_source
+    links2_ae = ae_df.groupby(['plateforme_AE', 'supply_source'])['revenue'].sum().reset_index()
     links2_ae['source'] = links2_ae['plateforme_AE'].map(label_indices)
-    links2_ae['target'] = links2_ae['demande_source'].map(demand_map).map(label_indices)
+    links2_ae['target'] = links2_ae['supply_source'].map(supply_map).map(label_indices)
 
-    # 2. Non-Audience Extension: supply_source → demande_source
+    # 2. Non-Audience Extension: demande_source → supply_source
     non_ae_df = filtered_df[~filtered_df['supply_source'].isin(ae_types)].copy()
-    links_non_ae = non_ae_df.groupby(['supply_source', 'demande_source'])['revenue'].sum().reset_index()
-    links_non_ae['source'] = links_non_ae['supply_source'].map(supply_map).map(label_indices)
-    links_non_ae['target'] = links_non_ae['demande_source'].map(demand_map).map(label_indices)
+    links_non_ae = non_ae_df.groupby(['demande_source', 'supply_source'])['revenue'].sum().reset_index()
+    links_non_ae['source'] = links_non_ae['demande_source'].map(demand_map).map(label_indices)
+    links_non_ae['target'] = links_non_ae['supply_source'].map(supply_map).map(label_indices)
 
     # Combine all links
     sources_all = pd.concat([links1_ae['source'], links2_ae['source'], links_non_ae['source']])
     targets_all = pd.concat([links1_ae['target'], links2_ae['target'], links_non_ae['target']])
     values_all  = pd.concat([links1_ae['revenue'], links2_ae['revenue'], links_non_ae['revenue']])
 
-    # Sankey Plot
     fig = go.Figure(data=[go.Sankey(
         node=dict(
             pad=15,
