@@ -30,6 +30,7 @@ df.loc[
 df['region'] = df['region'].fillna('N/A')
 
 app = dash.Dash(__name__)
+server = app.server
 
 sorted_months = sorted(df['event_month'].unique())
 
@@ -143,7 +144,12 @@ def update_sankey(region, month):
             value=values_all
         ))])
 
-    fig.update_layout(title_text=title, font_size=10)
+    fig.update_layout(
+        title_text=title,
+        font_size=14,         
+        width=1200,           
+        height=700            
+    )
     return fig
 
 if __name__ == '__main__':

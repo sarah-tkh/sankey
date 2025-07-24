@@ -68,7 +68,7 @@ def update_sankey(region, month):
     import plotly.graph_objects as go
 
     filtered_df = df.copy()
-    title = "Sankey (demande_source to supply_source)"
+    title = "Sankey"
 
     # Apply filters
     if region and region != "All":
@@ -144,7 +144,12 @@ def update_sankey(region, month):
             value=values_all
         ))])
 
-    fig.update_layout(title_text=title, font_size=10)
+    fig.update_layout(
+        title_text=title,
+        font_size=14,         # You can also increase font size for readability
+        width=1200,           # Increase width (default is 1000)
+        height=700            # Increase height (default is 600)
+    )
     return fig
 
 if __name__ == '__main__':
